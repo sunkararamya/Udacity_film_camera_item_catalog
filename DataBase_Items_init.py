@@ -304,7 +304,7 @@ Cam16 = Filmy_cam_Name(name="Fuji",
                        screen_size="3.1 Inches",
                        conector_type="Wi-Fi",
                        camera_cost="8,890Rs",
-                       voltage="7.1Volts",
+                       voltage="7.2Volts",
                        date=datetime.datetime.now(),
                        filmcameratypeid=8,
                        user_id=1)
