@@ -88,4 +88,4 @@ Camera Category Model JSON: `/film_camerastore/<path:film_camera_name>/<path:mod
 
 ## Miscellaneous
 
-This project is inspiration from [gmawji](https://github.com/gmawji/item-catalog).
+This project is inspiration from [SDey96](https://github.com/SDey96/Udacity-Item-Catalog-Project).
