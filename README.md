@@ -1,4 +1,4 @@
-#Udacity  full-stack-web-developer-nanodegree--nd004
+Udacity  full-stack-web-developer-nanodegree--nd004
 
 ITEM CATALOG-WEBAPP PRPJECT
 By Sunkara Ramya
@@ -44,9 +44,9 @@ Seperate instructions are provided to get GConnect working also.
 Or you can simply Install the dependency libraries (Flask, sqlalchemy, requests,psycopg2 and oauth2client) by running 
 `pip install -r requirements.txt`
 
-7. Setup application database `python /film_cam/Model_Data_Setup.py`
-8. *Insert sample data `python /film_cam/DataBase_Items_init.py`
-9. Run application using `python /film_cam/webapp.py`
+7. Setup application database `python /Udacity_film_camera_item_catalog/Model_Data_Setup.py`
+8. *Insert sample data `python /Udacity_film_camera_item_catalog/DataBase_Items_init.py`
+9. Run application using `python /Udacity_film_camera_item_catalog/webapp.py`
 10. Access the application locally using http://localhost:8000
 
 *Optional step(s)
@@ -66,8 +66,8 @@ To get the Google login working there are a few additional steps:
 10. Copy the Client ID and paste it into the `data-clientid` in signin.html
 11. On the Dev Console Select Download JSON
 12. Rename JSON file to client_secrets.json
-13. Place JSON file in film_cam directory that you cloned from here
-14. Run application using `python /film_cam/webapp.py`
+13. Place JSON file in Udacity_film_camera_item_catalog directory that you cloned from here
+14. Run application using `python /Udacity_film_camera_item_catalog/webapp.py`
 
 ## JSON Endpoints
 The following are open to the public:
