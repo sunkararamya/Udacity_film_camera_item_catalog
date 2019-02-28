@@ -33,7 +33,7 @@ User1 = Google_Mail_user(name="ramya reddy",
 session.add(User1)
 session.commit()
 print ("user successfully added")
-# Create sample byke companys
+# Create sample camera types
 Cam_type1 = Filmy_Camera_type(name="SingleLensReflex Camera",
                      user_id=1)
 session.add(Cam_type1)
@@ -69,15 +69,6 @@ Cam_type8 = Filmy_Camera_type(name="Large Format Cameras",
                      user_id=1)
 session.add(Cam_type8)
 session.commit()
-'''Cam_type9  = Filmy_Camera_type(name="Box Cameras",
-                     user_id=1)
-session.add(Cam_type9)
-session.commit()
-Cam_type10  = Filmy_Camera_type(name="Pin hole Cameras",
-                     user_id=1)
-session.add(Cam_type10)
-session.commit()'''
-
 
 # Populare a  with models for testing
 # Using different users for  names year also
