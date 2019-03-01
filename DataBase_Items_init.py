@@ -108,7 +108,7 @@ Cam3 = Filmy_cam_Name(name="Sony",
                        screen_size="3 Inches",
                        conector_type="usb",
                        camera_cost="14,400Rs",
-                       voltage="7.2 Volts",
+                       voltage="7.3Volts",
                        date=datetime.datetime.now(),
                        filmcameratypeid=1,
                        user_id=1)
